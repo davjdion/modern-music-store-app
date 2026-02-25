@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fender Telecaster",
+      "description": "A Fender Telecaster guitar",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "name": "DigiCo Console",
+      "description": "A DigiCo sound console",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "name": "Yamaha Mixer",
+      "description": "A Yamaha mixing console",
+      "img": ""
+    }
+  ]
+}
