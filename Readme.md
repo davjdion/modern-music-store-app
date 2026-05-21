@@ -52,7 +52,7 @@ The application demonstrates client-server communication, REST API integration, 
 ## Project Structure
 
 ```text
-projweb_java(1)/
+modern-music-store-app/
 ├── frontend/   # React application
 ├── backend/    # Spring Boot application
 ├── run.sh      # Build and run script
